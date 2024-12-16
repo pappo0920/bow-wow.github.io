@@ -118,7 +118,7 @@ ul.zubolog_2 li:not(:nth-of-type(2n)) {
   margin-right: 1px;
 }
 ul.zubolog_3 li {
-  width: calc((100% / 3) - 1px);
+  width: calc((100% / 4) - 1px);
   height: auto;
   aspect-ratio: 1/1;
 }
@@ -343,7 +343,7 @@ ul.zubolog_20 li:not(:nth-of-type(20n)) {
 }
 @media (min-width: 600px) {
   ul.zubolog_md-3 li {
-    width: calc((100% / 3) - 1px);
+    width: calc((100% / 4) - 1px);
     height: auto;
     aspect-ratio: 1/1;
   }
@@ -603,7 +603,7 @@ ul.zubolog_20 li:not(:nth-of-type(20n)) {
 }
 @media (min-width: 1025px) {
   ul.zubolog_lg-3 li {
-    width: calc((100% / 3) - 1px);
+    width: calc((100% / 4) - 1px);
     height: auto;
     aspect-ratio: 1/1;
   }
@@ -863,7 +863,7 @@ ul.zubolog_20 li:not(:nth-of-type(20n)) {
 }
 @media (min-width: 1240px) {
   ul.zubolog_xl-3 li {
-    width: calc((100% / 3) - 1px);
+    width: calc((100% / 4) - 1px);
     height: auto;
     aspect-ratio: 1/1;
   }
